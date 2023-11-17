@@ -1,0 +1,23 @@
+.control-btn{
+    padding: .75vh;
+    background-color: rgb(90, 5, 90);
+    color: white;
+    border-radius: 10px;
+
+    
+}
+
+#timer{
+    color: white;
+    margin-right: 1vw;
+}
+
+
+.qChoices button {
+    background-color: rgb(90, 5, 90);
+    color: white;
+    padding: .75vh;
+    border-radius: 10px;
+    margin: .75vh;
+    size: 200%;
+}
